@@ -9,7 +9,7 @@ function Navibar() {
     return (
         <Navbar expand="md" className="navitext" variant="dark" sticky="top">
             <div className="col-md-9">
-                <Navbar.Brand href="#"  >Ian Wren</Navbar.Brand>
+                <Navbar.Brand href="#"  >Black Cat Technology</Navbar.Brand>
                 <Navbar.Toggle  className="float-right" type="button" data-toggle="collapse"
                     data-target="#navbarNavAltMarkup" aria-controls="navbarNavAltMarkup" aria-expanded="false"
                     aria-label="Toggle navigation" />
