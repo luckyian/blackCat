@@ -1,13 +1,13 @@
 {
   "files": {
     "main.css": "/blackCat/static/css/main.e647fa5b.css",
-    "main.js": "/blackCat/static/js/main.8fcae53b.js",
+    "main.js": "/blackCat/static/js/main.c96b4ca7.js",
     "index.html": "/blackCat/index.html",
     "main.e647fa5b.css.map": "/blackCat/static/css/main.e647fa5b.css.map",
-    "main.8fcae53b.js.map": "/blackCat/static/js/main.8fcae53b.js.map"
+    "main.c96b4ca7.js.map": "/blackCat/static/js/main.c96b4ca7.js.map"
   },
   "entrypoints": [
     "static/css/main.e647fa5b.css",
-    "static/js/main.8fcae53b.js"
+    "static/js/main.c96b4ca7.js"
   ]
 }
