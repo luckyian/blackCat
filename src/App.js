@@ -1,6 +1,6 @@
 import React from "react";
 import { HashRouter as Router, Route} from "react-router-dom";
-import Contact from "./pages/Contact";
+import Bios from "./pages/Bios";
 import Index from "./pages/Index";
 import Portfolio from "./pages/Portfolio";
 import Navibar from "./components/Navbar";
@@ -19,7 +19,7 @@ function App() {
 
           <Route exact path="/" component={Index} />
           <Route exact path="/index" component={Index} />
-          <Route exact path="/contact" component={Contact} />
+          <Route exact path="/bios" component={Bios} />
           <Route exact path="/portfolio" component={Portfolio} />
 
         </Wrapper>
